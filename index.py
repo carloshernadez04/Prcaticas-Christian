@@ -83,5 +83,7 @@ while number2==0:
 resultado=number1/number2
 print(number1, " / ",number2," = ",resultado)
 
+#cosa
+
 
 
